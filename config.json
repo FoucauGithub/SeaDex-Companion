@@ -1,0 +1,15 @@
+{
+  "sonarr_url": "https://sonarr-anime.hiranet.de/api/v3",
+  "sonarr_key": "REDACTED_SONARR_KEY",
+  "radarr_url": "https://radarr-anime.hiranet.de/api/v3",
+  "radarr_key": "REDACTED_RADARR_KEY",
+  "qbittorrent_url": "http://10.0.10.60:8090",
+  "qbittorrent_user": "hiranaka",
+  "qbittorrent_pass": "LdsS3sB6oQfOFg",
+  "webhook": "https://discord.com/api/webhooks/1538889176194228225/REDACTED_DISCORD_WEBHOOK_TOKEN",
+  "notify_enabled": true,
+  "autocheck_minutes": 60,
+  "muted": [
+    "Sonarr:163132:1:WAP"
+  ]
+}
